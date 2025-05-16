@@ -1,0 +1,13 @@
+#WelcomeBanner{
+    background-color: #032a44;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    font-family: Inconsolata, monospace;
+}
+
+.header-links{
+    display:inline;
+    justify-content: space-between;
+    text-align: end;
+}
